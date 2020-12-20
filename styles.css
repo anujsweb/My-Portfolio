@@ -107,16 +107,17 @@ hr{
 /**sections**/
 
 .section {
-    padding: 1rem;
+    padding: 1rem; 
 }
 
 .section h1 {
     text-align: center;
-    padding: 2rem;
+    padding: 0rem;
 }
 
 .ow {
     background-color: var(--off-white);
+    
 }
 
 /**footer**/
