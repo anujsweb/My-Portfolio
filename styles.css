@@ -12,6 +12,10 @@ body {
 hr{
     margin: 2rem 0rem;
 }
+
+.nav-brand{
+    font-weight: bolder;
+}
 /**container**/
 .container{
     padding:0rem 1rem;
