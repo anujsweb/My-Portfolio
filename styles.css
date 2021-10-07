@@ -119,6 +119,7 @@ hr {
 .section h1 {
     text-align: center;
     padding: 0rem;
+    text-decoration-line: underline;
 }
 
 .ow {
